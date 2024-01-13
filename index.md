@@ -14,3 +14,7 @@ Previously, I worked with [Dr. Wenpei Gao](https://www.mse.ncsu.edu/people/wgao9
 
 - [Code](https://github.com/mcarter1239/)
 - [Valorant](https://www.twitch.tv/mdspartan1/)
+
+## Testing
+
+[internal link](/testing.md)
